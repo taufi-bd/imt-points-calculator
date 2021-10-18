@@ -1,0 +1,225 @@
+[
+  {
+    "title": "Section 1: Undergraduate Degree",
+    "question": "1) Have you obtained any Undergraduate degree alongside your medical Degree?",
+    "questionData": [
+      { "choice": "None/other: Please specify", "value": 0 },
+      {
+        "choice": "Degree obtained during medical course (eg intercalation, BSc, BA, etc.) - 1st class honours or 2.1 or equivalent",
+        "value": 6
+      },
+      {
+        "choice": "Degree obtained prior to starting medicine - 1st class honours or 2.1 or equivalent (can include non-medical related degrees)",
+        "value": 6
+      },
+      {
+        "choice": "Degree obtained during medical course (eg intercalation, BSC, BA, etc.) – less than 2.1 or equivalent",
+        "value": 3
+      },
+      {
+        "choice": "Degree obtained prior to starting medicine - less than 2.1 or equivalent (can include non-medical related degrees)",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "title": "Section 2: Postgraduate Degree",
+    "question": "2) Have you obtained any Undergraduate degree alongside your medical Degree?",
+    "questionData": [
+      { "choice": "None/other: Please specify", "value": 0 },
+      {
+        "choice": "PhD or DPhil Doctor of Philosophy (can include non-medical related qualifications)",
+        "value": 6
+      },
+      {
+        "choice": "MD Doctor of Medicine - two-year original research-based or MPhil Master of Philosophy (can include non-medical related qualifications)",
+        "value": 5
+      },
+      {
+        "choice": "Masters level degree eg MSc, MA, MRes, etc. (can include non-medical qualifications). Typically lasts 8 months or longer, full-time equivalent",
+        "value": 4
+      },
+      {
+        "choice": "MD Doctor of Medicine - dissertation",
+        "value": 3
+      },
+      {
+        "choice": "Other relevant postgraduate diploma or postgraduate certificate typically lasting between one and ten months (whole-time equivalent). ",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "title": "Section 3: Prizes / Awards",
+    "question": "3) This relates to awards and prizes obtained during medical school or after graduating",
+    "questionData": [
+      { "choice": "None/other: Please specify", "value": 0 },
+      {
+        "choice": "High-achievement award for primary medical qualification (eg honours or distinction) awarded to no more than the top 18%",
+        "value": 6
+      },
+      {
+        "choice": "Awarded international/national prize related to medicine",
+        "value": 4
+      },
+      {
+        "choice": "One or more prizes / distinctions / merits related to parts of the medical course awarded to no more than the top 20%",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "title": "Section 4: Presentations",
+    "question": "4) This section is separate to Quality Improvement so don’t include posters you have presented for QI projects",
+    "questionData": [
+      { "choice": "None/other: Please specify", "value": 0 },
+      {
+        "choice": "An oral presentation in which I was a first or second author was given at a national or international medical meeting.",
+        "value": 8
+      },
+      {
+        "choice": "A poster in which I was a first or second author was shown at a national or international medical meeting.",
+        "value": 5
+      },
+      {
+        "choice": "An oral presentation in which I was a first or second author was given at a regional medical meeting.",
+        "value": 5
+      },
+      {
+        "choice": "An oral presentation in which I was a first or second author was given at a local medical meeting.",
+        "value": 2
+      },
+      {
+        "choice": "A poster in which I was a first or second author was shown at a regional or local medical meeting.",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "title": "Section 5: Publications",
+    "question": "5) Any item included under an option stating 'PubMed-cited' must be cited in PubMed, so as to demonstrate that it is both peer-reviewed and relevant to medicine.",
+    "questionData": [
+      { "choice": "None/other: Please specify", "value": 0 },
+      {
+        "choice": "I am first author, joint-first author or corresponding author, of two or more PubMed-cited original research publications (or in press)",
+        "value": 8
+      },
+      {
+        "choice": "I am co-author of two or more PubMed-cited original research publications (or in press)",
+        "value": 7
+      },
+      {
+        "choice": "I am first author, joint-first author or corresponding author, of one PubMed-cited original research publication (or in press)",
+        "value": 6
+      },
+      {
+        "choice": "I have written at least 50% of a book related to medicine (this does not include self-published books)",
+        "value": 6
+      },
+      {
+        "choice": "I am co-author of one PubMed-cited original research publication (or in press)",
+        "value": 5
+      },
+      {
+        "choice": "I am first author, joint-first author, corresponding author or co-author of more than one PubMed-cited other publication (or in press) such as editorials, reviews, case reports, letters, etc",
+        "value": 4
+      },
+      {
+        "choice": "I have written a chapter of a book related to medicine in its broadest sense (this does not include self-published books)",
+        "value": 4
+      },
+      {
+        "choice": "I am first author, joint-first author, or co-author of one PubMed-cited other publication (or in press) such as an editorial, review, case report, letter, etc",
+        "value": 3
+      },
+      {
+        "choice": "I have published one or more abstracts, non peer-reviewed articles or published articles that are not PubMed-cited",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "title": "6) Section 6 (Part-A): Teaching Experience",
+    "question": "Teaching is split into two sections: ‘Teaching experience’ and ‘Training in teaching’. The points in the first section are gained for showing that you can develop and deliver your own teaching program",
+    "questionData": [
+      { "choice": "None/other: Please specify", "value": 0 },
+      {
+        "choice": "I have worked with local tutors to design and organise a teaching programme (a series of sessions) to enhance locally organised teaching for healthcare professionals or medical students. I have contributed regularly to teaching over a period of approximately three months or longer. I have evidence of formal feedback",
+        "value": 6
+      },
+      {
+        "choice": "I have organised a local teaching programme for healthcare professionals or medical students consisting of  more than one session and contributed regularly to teaching over a period of approximately three months or longer. I have evidence of formal feedback",
+        "value": 5
+      },
+      {
+        "choice": "I have provided regular teaching for healthcare professionals or medical students over a period of approximately three months or longer. I have evidence of formal feedback",
+        "value": 3
+      },
+      {
+        "choice": "I have taught medical students or other healthcare professionals occasionally . I have evidence of formal feedback",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "title": "Section 6 (Part-B): Training in Teaching",
+    "question": "7) Teaching is split into two sections: ‘Teaching experience’ and ‘Training in teaching’. The points in the first section are gained for showing that you can develop and deliver your own teaching program",
+    "questionData": [
+      { "choice": "I have had no training in teaching methods.", "value": 0 },
+      {
+        "choice": "I have been awarded a masters level teaching qualification.",
+        "value": 4
+      },
+      {
+        "choice": "I have a higher qualification in teaching eg PG Cert or PG Diploma.",
+        "value": 3
+      },
+      {
+        "choice": "I have had substantial training* in teaching methods lasting more than two days; this could include a completed module which forms part of a postgraduate teaching qualification.",
+        "value": 2
+      },
+      {
+        "choice": "I have had brief training in teaching methods lasting no more than two days.",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "title": "Section 7: Quality Improvement",
+    "question": "8) The QI project (QIP) may be a new project or might involve the further development and sustainability of an existing change project. Clinical audits can be a type of QI project, if they use QI methodology. Your project must demonstrate use of recognised QI methodology, e.g. Plan Do Study Act (PDSA) cycles or equivalent .",
+    "questionData": [
+      { "choice": "none/other: please specify", "value": 0 },
+      {
+        "choice": "Involvement in all stages of three or more cycles of a quality improvement project",
+        "value": 8
+      },
+      {
+        "choice": "Involvement in all stages of two cycles of a quality improvement project",
+        "value": 6
+      },
+      {
+        "choice": "Involvement in some stages of two cycles of a quality improvement project OR  involved in all stages of a single cycle of a quality improvement project",
+        "value": 4
+      },
+      {
+        "choice": " Involvement in some stages of a single cycle of a quality improvement project",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "title": "Section 8: Leadership",
+    "question": "9) Roles related to the provision of healthcare or a non-medical voluntary capacity can both be included in this section.",
+    "questionData": [
+      { "choice": "none/other: please specify", "value": 0 },
+      {
+        "choice": "I hold/have held a national/regional leadership or managerial role for 6 or more months and can demonstrate a positive impact",
+        "value": 6
+      },
+      {
+        "choice": "I hold/have held a local leadership or managerial role for 6 or more months and can demonstrate a positive impact",
+        "value": 3
+      }
+    ]
+  }
+]
