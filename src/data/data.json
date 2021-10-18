@@ -2,6 +2,7 @@
   {
     "title": "Section 1: Undergraduate Degree",
     "question": "1) Have you obtained any Undergraduate degree alongside your medical Degree?",
+    "notes": "In this section it is permissible to select some of the options for non-medical related qualifications; e.g. a BSc in psychology; it will be specified against each option where this is the case. If you have gained a degree/qualification which does not have a classification which fits in with the usual UK grading system (ie 1st, 2:1, etc.) please select the option here which you deem equivalent based upon your knowledge of the grading systems within the UK and the country where you gained your qualification. Intercalated degrees are usually awarded at bachelors’ level but are sometimes given at masters level. Regardless of which level your degree was awarded at, all intercalated degrees should be scored in this section, even if the award was a masters. In the event that you have gained a qualification which could be included under either the undergraduate or postgraduate degrees/qualifications section, you can include this under whichever of the two sections you feel is most appropriate.",
     "questionData": [
       { "choice": "None/other: Please specify", "value": 0 },
       {
@@ -24,7 +25,8 @@
   },
   {
     "title": "Section 2: Postgraduate Degree",
-    "question": "2) Have you obtained any Undergraduate degree alongside your medical Degree?",
+    "question": "2) Have you obtained any postgraduate degree alongside your medical Degree?",
+    "notes": "In this section it is permissible to select some of the options for non-medical related qualifications, eg a PhD in psychology; it will be specified against each option where this is the case. Where you have gained a degree/qualification which does not appear to fit exactly within one of the options available here, please select the option here which you deem equivalent based upon your knowledge of the level of the qualifications within the UK and the country where you gained your qualification. Intercalated degrees are usually awarded at bachelors’ level but are sometimes given at masters level. Regardless of which level your degree was awarded at, all intercalated degress should be scored in this section, even if the award was a masters. In the event that you have gained a qualification which could be included under either the undergraduate or postgraduate degrees/qualifications section, you can include this under whichever of the two sections you feel is most appropriate. Please note that any postgraduate qualifications related to teaching that you may have gained (eg. PG Cert, PG Dip etc) should not be scored for in this section, and should instead be included in the Training in Teaching section. Please do not include details of MRCP(UK) (or other postgraduate examinations of this nature) within this section.",
     "questionData": [
       { "choice": "None/other: Please specify", "value": 0 },
       {
@@ -52,6 +54,7 @@
   {
     "title": "Section 3: Prizes / Awards",
     "question": "3) This relates to awards and prizes obtained during medical school or after graduating",
+    "notes": "Please note that where a stated percentage is given you must be able to demonstrate this to claim that option. If your medical school do not specify this you will need to contact them to ask whether they can supply something in writing to verify that your performance met the specified criteria.",
     "questionData": [
       { "choice": "None/other: Please specify", "value": 0 },
       {
@@ -69,8 +72,9 @@
     ]
   },
   {
-    "title": "Section 4: Presentations",
+    "title": "Section 4: Presentations / Posters",
     "question": "4) This section is separate to Quality Improvement so don’t include posters you have presented for QI projects",
+    "notes": "Typically, you will be invited or selected to give a presentation or show your poster. In situations where you are solely presenting or showing your poster because you have paid a fee you may only select the 'none/other' option. 'Presentations' referred to here are oral presentations, with or without slides, in front of an audience of healthcare professionals. These can be of anything related to medicine, typically a case or case series, research or other topic. It would normally be expected to include a question and answer session. If a poster is shown without an accompanying oral presentation you can still claim points in line with the relevant statement below. 'Shown' should be considered to mean a significant role in the content of the poster with a defined opportunity for discussion during the conference/meeting at which it is displayed. If you were a significant contributor (usually first or second author) to a presentation/poster but did not personally present/show it, you can still claim the points as if you had presented. If you were due to present a poster or oral presentation which was cancelled due to the COVID-19 outbreak, you may claim the points as if it had been presented. You will need to be able to access evidence that your work was selected for presentation, the event was cancelled due to COVID-19 and the work completed; e.g. poster, abstract, PowerPoint presentation etc.",
     "questionData": [
       { "choice": "None/other: Please specify", "value": 0 },
       {
@@ -98,6 +102,7 @@
   {
     "title": "Section 5: Publications",
     "question": "5) Any item included under an option stating 'PubMed-cited' must be cited in PubMed, so as to demonstrate that it is both peer-reviewed and relevant to medicine.",
+    "notes": "Any item included under an option stating 'PubMed-cited' must be cited in PubMed, so as to demonstrate that it is both peer-reviewed and relevant to medicine. Where possible, you should include this PubMed reference when giving details of publications and the application form will require you to leave the web link for your article. Cochrane reviews can be regarded as equivalent. The only exception to this is in the case of published medical books, which do not require PubMed citation. Any stated authorship must be recognised by PubMed within the author section of the citation system. Whilst achievements not yet gained cannot usually be claimed, an exception to this are any articles/publications which have been completely accepted, but are just waiting to be published - ie 'in press'.",
     "questionData": [
       { "choice": "None/other: Please specify", "value": 0 },
       {
@@ -141,6 +146,7 @@
   {
     "title": "6) Section 6 (Part-A): Teaching Experience",
     "question": "Teaching is split into two sections: ‘Teaching experience’ and ‘Training in teaching’. The points in the first section are gained for showing that you can develop and deliver your own teaching program",
+    "notes": "Teaching is split into two separate scoring areas, ‘Teaching experience’ and ‘Training in teaching’. It is difficult to be prescriptive about timescales as it will depend on the regularity and length of sessions. What is important is that a lasting commitment to a meaningful teaching programme can be demonstrated. Therefore, you will need to use your professional judgement if your programme was less than three months on whether you can reasonably select this option and provide evidence accordingly. this means you have either evidence of senior observation and feedback (e.g. Developing the Clinical Teacher or Teaching Observation form) or that there has been collection and analysis of participants' feedback forms with  independent  verification. Independent feedback should ideally be supported by a letter or certificate from a course organiser/deputy, local tutors or a report detailing the analysis. it is recognised that some teaching programmes may have been disrupted due to the COVID-19 outbreak. Any teaching programme that had been fully organised with at least some sessions delivered, may claim the option as if the programme had been completed. You must provide a letter from your local tutor/organisation to confirm the situation and you must also have evidence of your work up to the point of cancellation; e.g. timetable, outline programme, any presentation materials, feedback on the sessions delivered.",
     "questionData": [
       { "choice": "None/other: Please specify", "value": 0 },
       {
@@ -164,6 +170,7 @@
   {
     "title": "Section 6 (Part-B): Training in Teaching",
     "question": "7) Teaching is split into two sections: ‘Teaching experience’ and ‘Training in teaching’. The points in the first section are gained for showing that you can develop and deliver your own teaching program",
+    "notes": "Please refer to the notes of Section 6 (Part-A)",
     "questionData": [
       { "choice": "I have had no training in teaching methods.", "value": 0 },
       {
@@ -187,6 +194,7 @@
   {
     "title": "Section 7: Quality Improvement",
     "question": "8) The QI project (QIP) may be a new project or might involve the further development and sustainability of an existing change project. Clinical audits can be a type of QI project, if they use QI methodology. Your project must demonstrate use of recognised QI methodology, e.g. Plan Do Study Act (PDSA) cycles or equivalent .",
+    "notes": "The QI project (QIP) may be a new project or might involve the further development and sustainability of an existing change project. Clinical audits can be a type of QI project, if they use QI methodology. Your project must demonstrate use of recognised QI methodology, e.g. Plan Do Study Act (PDSA) cycles or equivalent. If you have been involved in a long-running multi-cycle project, you can only claim points based on the cycles in which you were directly involved. If your project has not yet completed a single cycle, you can only select the 'none/other' option. It is recognised that some quality improvement projects may have been disrupted due to the COVID-19 outbreak. Any project which had been fully designed and data collection commenced but could not be completed due to the COVID-19 outbreak, may claim the option as if that cycle of the planned project had been delivered. You must provide correspondence from your supervisor/or other appropriate consultant to confirm the situation and you must also have evidence of your work up to the point of cancellation; e.g. project outline, data capture.",
     "questionData": [
       { "choice": "none/other: please specify", "value": 0 },
       {
@@ -210,6 +218,7 @@
   {
     "title": "Section 8: Leadership",
     "question": "9) Roles related to the provision of healthcare or a non-medical voluntary capacity can both be included in this section.",
+    "notes": "Roles related to the provision of healthcare or a non-medical voluntary capacity can both be included in this section. Examples of roles in healthcare include: BMA national executive, trainee representative of a specialist society or college or a nationally held leadership and management fellowship. Examples of roles in a non-medical voluntary capacity include: charity, scouting/guides, sports, creative arts, police/military. To score points in this role you must be able to indicate how you have made a difference in your leadership/management role; you will be given the opportunity to describe this on your application form. The point scoring options can only be used for roles which you have held since starting your first undergraduate degree (either your primary medical degree or a prior degree) and for a minimum of six months. The six months is of the application closing date and no leeway is allowed to ensure consistency for all applicants.",
     "questionData": [
       { "choice": "none/other: please specify", "value": 0 },
       {
